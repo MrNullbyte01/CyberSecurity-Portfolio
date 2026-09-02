@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberSecPro - Security Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="#home">Cyber<span>Sec</span>Pro</a>
+            </div>
+            <ul class="nav-menu" id="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Security Expert & Consultant</h1>
+            <p>Protecting digital assets through advanced security solutions and risk management</p>
+            <a href="#projects" class="btn">View My Work</a>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section projects">
+        <div class="container">
+            <h2 class="section-title">My Projects</h2>
+
+            <!-- Project Filters -->
+            <div class="project-filters">
+                <button class="filter-btn active" data-filter="all">All Projects</button>
+                <button class="filter-btn" data-filter="network">Network Security</button>
+                <button class="filter-btn" data-filter="penetration">Penetration Testing</button>
+                <button class="filter-btn" data-filter="compliance">Compliance & Auditing</button>
+            </div>
+
+            <!-- Projects Grid -->
+            <div class="project-grid">
+                <!-- Network Security Project 1 -->
+                <div class="project-card" data-category="network">
+                    <h3>Enterprise Firewall Implementation</h3>
+                    <p>Deployed next-generation firewall solution for Fortune 500 company, reducing security
+incidents by 85%.</p>
+                    <ul class="project-tags">
+                        <li>Firewall</li>
+                        <li>Network Security</li>
+                        <li>Fortinet</li>
+                    </ul>
+                </div>
+
+                <!-- Network Security Project 2 -->
+                <div class="project-card" data-category="network">
+                    <h3>Zero Trust Architecture</h3>
+                    <p>Designed and implemented Zero Trust security model for financial institution, enhancing
+access control.</p>
+                    <ul class="project-tags">
+                        <li>Zero Trust</li>
+                        <li>Identity Management</li>
+                        <li>Cisco</li>
+                    </ul>
+                </div>
+
+                <!-- Penetration Testing Project 1 -->
+                <div class="project-card" data-category="penetration">
+                    <h3>Web Application Security Audit</h3>
+                    <p>Conducted comprehensive penetration testing on e-commerce platform, identifying critical
+vulnerabilities.</p>
+                    <ul class="project-tags">
+                        <li>Pentesting</li>
+                        <li>OWASP</li>
+                        <li>Application Security</li>
+                    </ul>
+                </div>
+
+                <!-- Penetration Testing Project 2 -->
+                <div class="project-card" data-category="penetration">
+                    <h3>Red Team Engagement</h3>
+                    <p>Performed simulated cyber attack against corporate network, demonstrating realistic threat
+scenarios.</p>
+                    <ul class="project-tags">
+                        <li>Red Teaming</li>
+                        <li>Simulated Attack</li>
+                        <li>Cyber Range</li>
+                    </ul>
+                </div>
+
+                <!-- Compliance Project 1 -->
+                <div class="project-card" data-category="compliance">
+                    <h3>GDPR Compliance Framework</h3>
+                    <p>Developed comprehensive GDPR compliance strategy for multinational corporation with global
+operations.</p>
+                    <ul class="project-tags">
+                        <li>GDPR</li>
+                        <li>Data Protection</li>
+                        <li>Regulatory Compliance</li>
+                    </ul>
+                </div>
+
+                <!-- Compliance Project 2 -->
+                <div class="project-card" data-category="compliance">
+                    <h3>PCI DSS Security Assessment</h3>
+                    <p>Performed PCI DSS compliance audit for payment processing company, achieving full
+certification.</p>
+                    <ul class="project-tags">
+                        <li>PCI DSS</li>
+                        <li>Payment Security</li>
+                        <li>Audit</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section about">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>With over 10 years of experience in cybersecurity, I specialize in protecting organizations
+from evolving cyber threats. My expertise spans network security, penetration testing, compliance frameworks, and
+incident response.</p>
+                    <p>I hold multiple industry certifications including CISSP, CEH, and CISM. My approach
+combines technical excellence with strategic thinking to develop robust security solutions tailored to each
+client's unique needs.</p>
+                    <div class="skills">
+                        <h3>Technical Skills</h3>
+                        <div class="skill-bar">
+                            <span>Network Security</span>
+                            <div class="progress">
+                                <div class="progress-fill" style="width: 95%"></div>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <span>Penetration Testing</span>
+                            <div class="progress">
+                                <div class="progress-fill" style="width: 90%"></div>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <span>Compliance & Auditing</span>
+                            <div class="progress">
+                                <div class="progress-fill" style="width: 85%"></div>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <span>Incident Response</span>
+                            <div class="progress">
+                                <div class="progress-fill" style="width: 80%"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-image">
+                    <img
+src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=600&q=80" alt="Security Professional">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section contact">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3>Contact Information</h3>
+                    <p>Have a security project or question? Reach out to me and I'll get back to you as soon as
+possible.</p>
+                    <ul class="contact-details">
+                        <li>
+                            <i class="fas fa-envelope"></i>
+                            <span>security@cybersecpro.com</span>
+                        </li>
+                        <li>
+                            <i class="fas fa-phone"></i>
+                            <span>+1 (555) 123-4567</span>
+                        </li>
+                        <li>
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>San Francisco, CA</span>
+                        </li>
+                    </ul>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-github"></i></a>
+                        <a href="#"><i class="fab fa-medium-m"></i></a>
+                    </div>
+                </div>
+                <form class="contact-form">
+                    <div class="form-group">
+                        <input type="text" name="name" placeholder="Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" name="email" placeholder="Your Email" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="subject" placeholder="Subject">
+                    </div>
+                    <div class="form-group">
+                        <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2023 CyberSecPro. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
