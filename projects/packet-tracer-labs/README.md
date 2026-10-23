@@ -34,7 +34,7 @@ In this Cisco Packet Tracer lab, I created and configured multiple VLANs and imp
 Completed — Cisco Packet Tracer lab.
 
 ## Evidence
-/assets/Inter-Vlan Routing (Router on a Stick)
+/assets/Inter-Vlan Routing (Router on a Stick).png
 
 
 
