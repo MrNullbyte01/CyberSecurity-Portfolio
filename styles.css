@@ -203,3 +203,6 @@
     }
 }
 
+
+/* ===== CREDENTIAL ARCHIVE CARD ===== */
+.credential-intro{margin:8px 0 20px!important;max-width:720px}.credential-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:22px 0 28px}.credential-entry{padding:17px;border:1px solid #223740;background:rgba(7,15,20,.62);min-width:0}.credential-entry strong{display:block;font-size:13px;line-height:1.5;margin:8px 0 5px}.credential-entry p{margin:0!important;font-size:11px!important;line-height:1.75!important}.credential-status{display:inline-block;font:9px var(--mono);letter-spacing:.06em;padding:4px 6px;border:1px solid #29443f;color:#8aa5a0}.credential-status.completed{color:var(--green);border-color:#245747}.credential-status.ongoing{color:#8dd9e0;border-color:#2a5156}.diploma-heading{display:grid;gap:5px;border-top:1px solid #223740;padding-top:20px;margin-top:4px}.diploma-heading>strong{font-size:15px}.diploma-heading>p{margin:0!important;font-size:11px!important}.diploma-placeholder{margin-top:14px!important}@media(max-width:680px){.credential-list{grid-template-columns:1fr}.credential-entry{padding:15px}}
