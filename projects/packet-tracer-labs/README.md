@@ -73,8 +73,7 @@ In this Cisco Packet Tracer lab, I configured the default gateway on a multilaye
 Completed — Cisco Packet Tracer lab.
 
 ## Evidence
-
-Network topology screenshots and relevant CLI configurations can be added here.
+![Multilayer Switch Default Gateway](../../assets/multilayer-switch-default-gateway.png)
 
 
 
