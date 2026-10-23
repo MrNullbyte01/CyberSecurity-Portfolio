@@ -259,3 +259,27 @@
  .diploma-preview{padding:8px}
  .diploma-preview img{max-height:220px}
 }
+
+
+/* ===== CREDENTIALS LEFT / CERTIFICATE RIGHT ===== */
+.credential-card{padding:25px}
+.credential-content-layout{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(230px,.75fr);gap:26px;align-items:start}
+.credential-details{min-width:0}
+.diploma-panel{min-width:0;border-top:0;border-left:1px solid #223740;padding:0 0 0 24px;margin:0;align-self:stretch}
+.diploma-heading{padding:0;margin:0 0 14px;gap:6px}
+.diploma-heading>strong{font-size:18px}
+.diploma-heading>p{font-size:12px!important;line-height:1.7!important;color:#a6b6b7}
+.diploma-preview{margin-top:14px;padding:10px;min-height:300px;display:flex;align-items:center;justify-content:center}
+.diploma-preview img{display:block;width:100%;max-width:100%;height:auto;max-height:360px;object-fit:contain;margin:auto}
+@media(max-width:950px){
+ .credential-content-layout{grid-template-columns:minmax(0,1fr) minmax(210px,.7fr);gap:20px}
+ .diploma-panel{padding-left:18px}
+ .diploma-preview{min-height:260px}
+ .diploma-preview img{max-height:320px}
+}
+@media(max-width:680px){
+ .credential-content-layout{grid-template-columns:1fr;gap:24px}
+ .diploma-panel{border-left:0;border-top:1px solid #223740;padding:20px 0 0}
+ .diploma-preview{min-height:0;padding:10px}
+ .diploma-preview img{max-height:360px;width:auto;max-width:100%}
+}
