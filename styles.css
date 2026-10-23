@@ -72,3 +72,134 @@
         max-height: none;
     }
 }
+
+/* ===== TRAINING & EDUCATION REDESIGN ===== */
+
+.training-section {
+    padding-top: 85px;
+    padding-bottom: 90px;
+}
+
+.training-section > .section-heading {
+    text-align: center;
+}
+
+.training-section > .section-heading h2 {
+    margin-top: 16px;
+}
+
+.training-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 38px;
+}
+
+.timeline {
+    border-left: none;
+    padding-left: 0;
+    margin-left: 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+}
+
+.timeline-item {
+    position: relative;
+    padding: 25px;
+    min-height: 185px;
+    border: 1px solid #223740;
+    background: linear-gradient(145deg, #101b24, #0a1117);
+    transition: border-color 0.25s, transform 0.25s;
+}
+
+.timeline-item:hover {
+    border-color: #00a982;
+    transform: translateY(-3px);
+}
+
+.timeline-dot {
+    display: none;
+}
+
+.timeline-meta {
+    display: inline-block;
+    color: var(--green);
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    margin-bottom: 5px;
+}
+
+.timeline-item h3 {
+    font-size: 17px;
+    line-height: 1.5;
+    margin: 8px 0 10px;
+}
+
+.timeline-item p {
+    font-size: 13px;
+    line-height: 1.8;
+    color: #9aadaf;
+}
+
+.credential-card {
+    width: 100%;
+    padding: 28px;
+    border: 1px solid #253941;
+    background: linear-gradient(145deg, #101c23, #0a1117);
+}
+
+.credential-card h3 {
+    margin-top: 16px;
+}
+
+.diploma-placeholder {
+    min-height: 0;
+    padding: 16px;
+    border: 1px solid #29443f;
+    background: #080f14;
+}
+
+.diploma-placeholder img {
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    max-height: none;
+    height: auto;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+/* ===== TABLET & MOBILE ===== */
+
+@media (max-width: 680px) {
+    .training-section {
+        padding-top: 70px;
+        padding-bottom: 75px;
+    }
+
+    .timeline {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .timeline-item {
+        min-height: 0;
+        padding: 22px;
+    }
+
+    .credential-card {
+        padding: 20px;
+    }
+
+    .diploma-placeholder {
+        padding: 8px;
+    }
+
+    .diploma-placeholder img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
+}
+
