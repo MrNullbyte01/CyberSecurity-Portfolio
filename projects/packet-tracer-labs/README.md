@@ -122,7 +122,7 @@ Completed — Cisco Packet Tracer lab.
 
 ## Evidence
 
-Add screenshots of the network topology, EtherChannel configuration, and verification commands.
+![EtherChannel](../../assets/etherchannel.png)
 
 Useful verification commands:
 
@@ -185,7 +185,7 @@ Completed — Cisco Packet Tracer lab.
 
 ## Evidence
 
-Add screenshots of the network topology, DHCP configuration, DNS records, static routing table, and successful connectivity tests.
+![DHCP, DNS and Static Routing](../../assets/dhcp-dns-static-routing.png)
 
 
 
@@ -261,7 +261,7 @@ Completed — Cisco Packet Tracer lab.
 
 ## Evidence
 
-Add screenshots of the network topology, EtherChannel status, port-security settings, DHCP Snooping configuration, STP protection, and interface descriptions.
+![Network Security](../../assets/network-security.png)
 
 
 
@@ -320,7 +320,7 @@ Completed — Cisco Packet Tracer lab.
 
 ## Evidence
 
-Add screenshots of the network topology, routing configurations, routing tables, and successful connectivity tests.
+![Static, Default, and Floating Static Routing](../../assets/static-routing.png)
 
 
 
@@ -381,7 +381,7 @@ Completed — Cisco Packet Tracer lab.
 
 ## Evidence
 
-Add screenshots of the network topology, OSPF neighbors, routing tables, DHCP assignments, DNS settings, and successful connectivity tests.
+![OSPF and ISP](../../assets/ospf-isp.png)
 
 
 
@@ -441,8 +441,7 @@ In this Cisco Packet Tracer lab, I performed the initial network configuration a
 Completed — Cisco Packet Tracer lab.
 
 ## Evidence
-
-Add screenshots of the network topology, ACL configurations, ACL hit counters, and connectivity tests demonstrating the blocked and permitted traffic.
+![ACL Configuration](../../assets/acl-configuration.png)
 
 
 
@@ -525,8 +524,7 @@ In this Cisco Packet Tracer project, I designed and configured a multi-branch en
 Completed — Cisco Packet Tracer lab.
 
 ## Evidence
-
-Add screenshots of the complete network topology, IP addressing, DHCP assignments, inter-VLAN routing, EtherChannel status, port-security configuration, ACL rules, OSPF neighbors, NAT translations, GRE tunnel status, and successful connectivity tests.
+![Multi-Branch Network](../../assets/enterprise-multi-branch.png)
 
 
 ## Conclusion
