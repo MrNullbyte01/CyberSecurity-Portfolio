@@ -90,6 +90,15 @@ A collection of notes from legal training environments and CTF challenges.
 - **Status:** In progress
 - **Folder:** [`projects/ctf-writeups/`](projects/ctf-writeups/)
 
+### 5. NULL Motherboard
+A KiCad 10 design project for a custom Raspberry Pi Zero 2 W carrier / motherboard.
+
+- **Status:** Design in progress — not fabricated or assembled
+- **Platform:** Raspberry Pi Zero 2 W
+- **Focus:** power architecture, GPIO mapping, USB, connectors, PCB layout, ERC / DRC, and fabrication preparation
+- **Folder:** [`projects/null-motherboard/`](projects/null-motherboard/)
+- **Important:** The older Front Panel PCB files in `assets/` are archived reference material, not the new carrier board.
+
 ## Training & Certificates
 
 - **Cisco Networking Basics** — Cisco Networking Academy
