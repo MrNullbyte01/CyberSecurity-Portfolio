@@ -73,10 +73,11 @@ A growing collection of self-study network labs created while learning CCNA-leve
 - **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-2)
 
 ### 2. Raspberry Pi Cyberdeck
-A personal hardware project exploring a compact, portable computer / cyberdeck concept based on Raspberry Pi hardware.
+A personal Raspberry Pi cyberdeck project inspired by Tommi Laukkanen's Cyberdore builds. The separate repository records the original references and distinguishes my own implementation from the inspiration.
 
 - **Status:** In progress / details to be documented
 - **Planned documentation:** hardware list, setup notes, operating system, photos, lessons learned
+- **Inspiration:** [Tommi Laukkanen — Cyberdore](https://www.codeof.me/cyberdore-raspberry-pi-powered-cyberdeck/) and [Cyberdore 2064](https://www.codeof.me/cyberdore-2064-rpi0-based-cyberdeck-to-handle-netrunning-tasks-on-the-couch/)
 - **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-3)
 
 ### 3. BlackBerry Passport Revival
