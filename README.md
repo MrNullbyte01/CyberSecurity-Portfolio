@@ -53,7 +53,7 @@ I plan to add more rooms and publish concise write-ups with the methodology, key
 
 I build and practise networking scenarios in Cisco Packet Tracer as part of my CCNA preparation.
 
-**Lab files and screenshots:** add them to [`projects/packet-tracer-labs/`](projects/packet-tracer-labs/) and link each lab below when ready.
+**Lab files and screenshots:** add them to [Dedicated repository](https://github.com/MrNullbyte01/Repostery-2) and link each lab below when ready.
 
 | Lab | Status | Evidence |
 |---|---|---|
@@ -62,33 +62,35 @@ I build and practise networking scenarios in Cisco Packet Tracer as part of my C
 
 ## Projects
 
+Each project now has a separate GitHub repository for its own documentation and files.
+
 ### 1. Cisco Packet Tracer Lab Collection
 A growing collection of self-study network labs created while learning CCNA-level concepts.
 
 - **Status:** In progress
 - **Tools:** Cisco Packet Tracer
 - **Planned evidence:** `.pkt` files, topology screenshots, short lab notes, and verification commands
-- **Folder:** [`projects/packet-tracer-labs/`](projects/packet-tracer-labs/)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-2)
 
 ### 2. Raspberry Pi Cyberdeck
 A personal hardware project exploring a compact, portable computer / cyberdeck concept based on Raspberry Pi hardware.
 
 - **Status:** In progress / details to be documented
 - **Planned documentation:** hardware list, setup notes, operating system, photos, lessons learned
-- **Folder:** [`projects/raspberry-pi-cyberdeck/`](projects/raspberry-pi-cyberdeck/)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-3)
 
 ### 3. BlackBerry Passport Revival
 A personal device-revival project focused on bringing a BlackBerry Passport back to working condition.
 
 - **Status:** Device restored to working condition (based on my current project notes)
 - **Planned documentation:** issue encountered, repair / recovery steps, software version, photos, and what worked
-- **Folder:** [`projects/blackberry-passport/`](projects/blackberry-passport/)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-4)
 
 ### 4. CTF Notes and Write-ups
 A collection of notes from legal training environments and CTF challenges.
 
 - **Status:** In progress
-- **Folder:** [`projects/ctf-writeups/`](projects/ctf-writeups/)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-5)
 
 ### 5. NULL Motherboard
 A KiCad 10 design project for a custom Raspberry Pi Zero 2 W carrier / motherboard.
@@ -96,7 +98,7 @@ A KiCad 10 design project for a custom Raspberry Pi Zero 2 W carrier / motherboa
 - **Status:** Design in progress — not fabricated or assembled
 - **Platform:** Raspberry Pi Zero 2 W
 - **Focus:** power architecture, GPIO mapping, USB, connectors, PCB layout, ERC / DRC, and fabrication preparation
-- **Folder:** [`projects/null-motherboard/`](projects/null-motherboard/)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-1)
 - **Important:** The older Front Panel PCB files in `assets/` are archived reference material, not the new carrier board.
 
 ## Training & Certificates
