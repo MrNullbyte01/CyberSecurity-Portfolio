@@ -144,3 +144,6 @@ My formal studies are in taxation, while I independently develop practical skill
 ## Project assets and repositories
 
 Existing Packet Tracer `.pkt` labs and matching topology screenshots have been copied into [Cisco Networking Labs](https://github.com/MrNullbyte01/Cisco-Networking-Labs). Existing CTF and technical study PDFs have been copied into [CTF Writeups](https://github.com/MrNullbyte01/CTF-Writeups). The earlier Front Panel KiCad files have been preserved as an explicitly labelled archive in [NULL Motherboard](https://github.com/MrNullbyte01/NULL-Motherboard), separate from the new Raspberry Pi Zero 2 W carrier-board design. The BlackBerry APK/BAR archive is inventoried but not duplicated while redistribution rights remain unverified. No personal Cyberdeck build photos or design files were present in the portfolio assets at the time of this update.
+
+
+For a quick map of the source repository, see the [Project Repository Index](projects/README.md) and [Portfolio Asset Index](assets/README.md).
