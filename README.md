@@ -53,7 +53,7 @@ I plan to add more rooms and publish concise write-ups with the methodology, key
 
 I build and practise networking scenarios in Cisco Packet Tracer as part of my CCNA preparation.
 
-**Lab files and screenshots:** add them to [Dedicated repository](https://github.com/MrNullbyte01/Repostery-2) and link each lab below when ready.
+**Lab files and screenshots:** add them to [Dedicated repository](https://github.com/MrNullbyte01/Cisco-Networking-Labs) and link each lab below when ready.
 
 | Lab | Status | Evidence |
 |---|---|---|
@@ -70,7 +70,7 @@ A growing collection of self-study network labs created while learning CCNA-leve
 - **Status:** In progress
 - **Tools:** Cisco Packet Tracer
 - **Planned evidence:** `.pkt` files, topology screenshots, short lab notes, and verification commands
-- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-2)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Cisco-Networking-Labs)
 
 ### 2. Raspberry Pi Cyberdeck
 A personal Raspberry Pi cyberdeck project inspired by Tommi Laukkanen's Cyberdore builds. The separate repository records the original references and distinguishes my own implementation from the inspiration.
@@ -78,20 +78,20 @@ A personal Raspberry Pi cyberdeck project inspired by Tommi Laukkanen's Cyberdor
 - **Status:** In progress / details to be documented
 - **Planned documentation:** hardware list, setup notes, operating system, photos, lessons learned
 - **Inspiration:** [Tommi Laukkanen — Cyberdore](https://www.codeof.me/cyberdore-raspberry-pi-powered-cyberdeck/) and [Cyberdore 2064](https://www.codeof.me/cyberdore-2064-rpi0-based-cyberdeck-to-handle-netrunning-tasks-on-the-couch/)
-- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-3)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Raspberry-Pi-Cyberdeck)
 
 ### 3. BlackBerry Passport Revival
 A personal device-revival project focused on bringing a BlackBerry Passport back to working condition.
 
 - **Status:** Device restored to working condition (based on my current project notes)
 - **Planned documentation:** issue encountered, repair / recovery steps, software version, photos, and what worked
-- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-4)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/BlackBerry-Passport-Revival)
 
 ### 4. CTF Notes and Write-ups
 A collection of notes from legal training environments and CTF challenges.
 
 - **Status:** In progress
-- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-5)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/CTF-Writeups)
 
 ### 5. NULL Motherboard
 A KiCad 10 design project for a custom Raspberry Pi Zero 2 W carrier / motherboard.
@@ -99,7 +99,7 @@ A KiCad 10 design project for a custom Raspberry Pi Zero 2 W carrier / motherboa
 - **Status:** Design in progress — not fabricated or assembled
 - **Platform:** Raspberry Pi Zero 2 W
 - **Focus:** power architecture, GPIO mapping, USB, connectors, PCB layout, ERC / DRC, and fabrication preparation
-- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Repostery-1)
+- **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/NULL-Motherboard)
 - **Important:** The older Front Panel PCB files in `assets/` are archived reference material, not the new carrier board.
 
 ## Training & Certificates
@@ -139,3 +139,8 @@ My formal studies are in taxation, while I independently develop practical skill
 *Learning consistently. Building responsibly. Documenting the journey.*
 
 </div>
+
+
+## Project assets and repositories
+
+Existing Packet Tracer `.pkt` labs and matching topology screenshots have been copied into [Cisco Networking Labs](https://github.com/MrNullbyte01/Cisco-Networking-Labs). Existing CTF and technical study PDFs have been copied into [CTF Writeups](https://github.com/MrNullbyte01/CTF-Writeups). The earlier Front Panel KiCad files have been preserved as an explicitly labelled archive in [NULL Motherboard](https://github.com/MrNullbyte01/NULL-Motherboard), separate from the new Raspberry Pi Zero 2 W carrier-board design. The BlackBerry APK/BAR archive is inventoried but not duplicated while redistribution rights remain unverified. No personal Cyberdeck build photos or design files were present in the portfolio assets at the time of this update.
