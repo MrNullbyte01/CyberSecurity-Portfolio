@@ -57,8 +57,8 @@ I build and practise networking scenarios in Cisco Packet Tracer as part of my C
 
 | Lab | Status | Evidence |
 |---|---|---|
-| Packet Tracer lab collection | In progress | To be added |
-| Additional routing / switching labs | Planned | To be added |
+| 9 Packet Tracer labs | Published | 9 topology screenshots + lab catalogue |
+| Further lab verification notes | In progress | Verification commands and troubleshooting notes |
 
 ## Projects
 
@@ -67,9 +67,9 @@ Each project now has a separate GitHub repository for its own documentation and 
 ### 1. Cisco Packet Tracer Lab Collection
 A growing collection of self-study network labs created while learning CCNA-level concepts.
 
-- **Status:** In progress
+- **Status:** 9 Packet Tracer lab files and 9 matching topology screenshots published; documentation is being refined
 - **Tools:** Cisco Packet Tracer
-- **Planned evidence:** `.pkt` files, topology screenshots, short lab notes, and verification commands
+- **Evidence:** `.pkt` files, topology screenshots, a nine-lab catalogue, and a reusable lab-report template
 - **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Cisco-Networking-Labs)
 
 ### 2. Raspberry Pi Cyberdeck
