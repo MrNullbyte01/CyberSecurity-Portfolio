@@ -75,8 +75,9 @@ A growing collection of self-study network labs created while learning CCNA-leve
 ### 2. Raspberry Pi Cyberdeck
 A personal Raspberry Pi cyberdeck project inspired by Tommi Laukkanen's Cyberdore builds. The separate repository records the original references and distinguishes my own implementation from the inspiration.
 
-- **Status:** In progress / details to be documented
-- **Planned documentation:** hardware list, setup notes, operating system, photos, lessons learned
+- **Status:** 10 STL model files and reference research are published; my own physical build is not yet evidenced
+- **Available material:** enclosure / assembly STL files and Cyberdore reference analysis
+- **Still to document:** my selected hardware, 3D-print and assembly progress, operating system, original photos, and functional tests
 - **Inspiration:** [Tommi Laukkanen — Cyberdore](https://www.codeof.me/cyberdore-raspberry-pi-powered-cyberdeck/) and [Cyberdore 2064](https://www.codeof.me/cyberdore-2064-rpi0-based-cyberdeck-to-handle-netrunning-tasks-on-the-couch/)
 - **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/Raspberry-Pi-Cyberdeck)
 
