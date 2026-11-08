@@ -10,18 +10,18 @@ This folder contains portfolio-level assets such as the profile photo, education
 | Legacy KiCad Front Panel project and image | [NULL Motherboard](https://github.com/MrNullbyte01/NULL-Motherboard) | `archive/front-panel-reference/` |
 | CTF and technical study PDFs | [CTF Writeups](https://github.com/MrNullbyte01/CTF-Writeups) | `writeups/` |
 
-The original copies remain in this portfolio repository so existing history and links are preserved.
+The original Packet Tracer and CTF source copies remain here. The duplicate Front Panel KiCad files and image were removed from this folder after their SHA hashes were verified against the archived copies in the NULL Motherboard repository.
 
 ## Assets that stay in the portfolio
 
-- `profile-photo.jpeg` and profile placeholders — used by the portfolio website.
-- Texnoera diploma image/PDF and placeholder — education/credential material, not a project asset.
+- `profile-photo.jpeg` — used by the portfolio website.
+- Texnoera diploma image/PDF — education/credential material, not a project asset.
 - Other personal portfolio presentation assets.
 
 ## Assets not duplicated
 
 - BlackBerry APK and BAR packages remain in the original `projects/blackberry-passport/` archive. They appear to include third-party application binaries; redistribution rights have not been verified. Their inventory is documented in the [BlackBerry Passport Revival repository](https://github.com/MrNullbyte01/BlackBerry-Passport-Revival/blob/main/docs/software-inventory.md).
-- No personal Raspberry Pi Cyberdeck build photos, CAD files, or wiring diagrams were present in the portfolio assets at the time of review. The Cyberdeck repository currently contains reference research and planning documentation only.
+- No personal Raspberry Pi Cyberdeck build photos or wiring diagrams were present in the portfolio assets at the time of review. The Cyberdeck repository separately contains 10 STL model files and reference research; their presence does not prove a physical assembly.
 
 ## Important NULL Motherboard distinction
 
