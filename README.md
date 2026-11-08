@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammed Abbasli | Cybersecurity Portfolio
+# Mahammad Abbasli | Cybersecurity Portfolio
 
 **Aspiring Penetration Tester · Networking · Red Team Learning · SOC Fundamentals**
 
@@ -132,7 +132,7 @@ My formal studies are in taxation, while I independently develop practical skill
 
 - **Email:** [muhammedlamer@gmail.com](mailto:muhammedlamer@gmail.com)
 - **GitHub:** [@MrNullbyte01](https://github.com/MrNullbyte01)
-- **LinkedIn:** [Muhammed Abbasli](https://www.linkedin.com/in/m%C9%99h%C9%99mm%C9%99d-abbasl%C4%B1-96010a366/)
+- **LinkedIn:** [Mahammad Abbasli](https://www.linkedin.com/in/m%C9%99h%C9%99mm%C9%99d-abbasl%C4%B1-96010a366/)
 
 ---
 
