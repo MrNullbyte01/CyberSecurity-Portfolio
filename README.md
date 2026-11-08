@@ -101,7 +101,7 @@ A KiCad 10 design project for a custom Raspberry Pi Zero 2 W carrier / motherboa
 - **Platform:** Raspberry Pi Zero 2 W
 - **Focus:** power architecture, GPIO mapping, USB, connectors, PCB layout, ERC / DRC, and fabrication preparation
 - **Folder:** [Dedicated repository](https://github.com/MrNullbyte01/NULL-Motherboard)
-- **Important:** The older Front Panel PCB files in `assets/` are archived reference material, not the new carrier board.
+- **Important:** The old Front Panel PCB is preserved in the [separate archive folder](https://github.com/MrNullbyte01/NULL-Motherboard/tree/main/archive/front-panel-reference). It is not the new carrier board.
 
 ## Training & Certificates
 
